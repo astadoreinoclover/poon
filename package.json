@@ -1,0 +1,21 @@
+{
+  "name": "poon",
+  "version": "1.0.0",
+  "description": "Simulador de Dog",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simulador",
+    "cachorro",
+    "poo"
+  ],
+  "author": "Angelo Luz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "prompt-sync": "^4.2.0",
+    "typescript": "^5.0.4"
+  }
+}
